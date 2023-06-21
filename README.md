@@ -44,8 +44,8 @@ Fun fact: I love cricket, football and music :D
 </a>
 
 
-<a href="https://github.com/bilaschandra/php-mysql-dockerized">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bilaschandra&repo=php-mysql-dockerized&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/bilaschandra/laravel-coreui">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bilaschandra&repo=laravel-coreui&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <!-- links to social media icons -->
