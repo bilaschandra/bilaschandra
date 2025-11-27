@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Bilas Chandra Sarker and I'm a senior software engineer (L2). I'm from Bangladesh, living in Dhaka and currently working at Field Nation. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Bilas Chandra Sarker and I'm a staff software engineer. I'm from Bangladesh, living in Dhaka and currently working at Field Nation. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 Fun fact: I love cricket, football and music :D
 
